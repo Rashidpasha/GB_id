@@ -257,3 +257,5 @@ or push an existing repository from the command line (привязать уже 
     git push -u origin main
 
 Либо импортировать код другого репозитория.
+
+end.
