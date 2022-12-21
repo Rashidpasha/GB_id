@@ -258,4 +258,4 @@ or push an existing repository from the command line (привязать уже 
 
 Либо импортировать код другого репозитория.
 
-end.
+end...
